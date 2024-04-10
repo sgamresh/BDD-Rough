@@ -1,0 +1,28 @@
+resources:
+- name: katalon-project
+  type: archive
+  source:
+    path: /Users/geetanjali/Katalon Studio
+
+jobs:
+- name: run_tests
+  plan:
+  - put: katalon-project
+    params:
+      file: /Users/geetanjali/Katalon Studio
+  - task: run-tests
+    config:
+      platform: linux/amd64
+      image_resource:
+        type: docker-image
+        source:
+          repository: katalonstudio/katalon
+          tag: latest
+      inputs:
+      - name: katalon-project
+      run:
+        path: /katalon/katalonc
+        args:
+        - -noSplash
+        - -runMode=console
+        - -projectPath=katalon-project/BDD-Project-Sample.prj
