@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-04-13T02:31:49.655151Z</date>
+  <millis>1712975509655</millis>
+  <nanos>151000</nanos>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/SampleSuite</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="rerunTestFailImmediately">false</property>
+  <property name="retryCount">0</property>
+  <property name="name">SampleSuite</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/SampleSuite</property>
+</record>
+<record>
+  <date>2024-04-13T02:31:49.661548Z</date>
+  <millis>1712975509661</millis>
+  <nanos>548000</nanos>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = geetanjali - localhost</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostName">geetanjali - localhost</property>
+</record>
+<record>
+  <date>2024-04-13T02:31:49.661866Z</date>
+  <millis>1712975509661</millis>
+  <nanos>866000</nanos>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Mac OS X 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="os">Mac OS X 64bit</property>
+</record>
+<record>
+  <date>2024-04-13T02:31:49.662180Z</date>
+  <millis>1712975509662</millis>
+  <nanos>180000</nanos>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 127.0.0.1</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostAddress">127.0.0.1</property>
+</record>
+<record>
+  <date>2024-04-13T02:31:49.662430Z</date>
+  <millis>1712975509662</millis>
+  <nanos>430000</nanos>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 9.4.0.212</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="katalonVersion">9.4.0.212</property>
+</record>
+<record>
+  <date>2024-04-13T02:31:49.729114Z</date>
+  <millis>1712975509729</millis>
+  <nanos>114000</nanos>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Sample</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="name">Test Cases/Sample</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Sample</property>
+  <property name="source">\Users\geetanjali\BDD-Rough\Test Cases\Sample.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2024-04-13T02:31:49.840288Z</date>
+  <millis>1712975509840</millis>
+  <nanos>288000</nanos>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2024-04-13T02:31:49.928683Z</date>
+  <millis>1712975509928</millis>
+  <nanos>683000</nanos>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Starting &amp;apos;Chrome&amp;apos; driver</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-04-13T02:31:49.940157Z</date>
+  <millis>1712975509940</millis>
+  <nanos>157000</nanos>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Action delay is set to 0 milliseconds</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-04-13T02:31:51.971711Z</date>
+  <millis>1712975511971</millis>
+  <nanos>711000</nanos>
+  <sequence>15</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Unable to open browser with url: &amp;apos;&amp;apos; (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to open browser with url: &amp;apos;&amp;apos;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser(OpenBrowserKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.execute(OpenBrowserKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.openBrowser(WebUiBuiltInKeywords.groovy:64)
+	at Sample.run(Sample:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1712975504916.run(TempTestSuite1712975504916.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 119.0.6045.159 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+Build info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;
+System info: host: &amp;apos;Geetanjalis-MacBook-Air.local&amp;apos;, ip: &amp;apos;2401:4900:1cbc:5cfb:293f:71d2:8979:43a1%en0&amp;apos;, os.name: &amp;apos;Mac OS X&amp;apos;, os.arch: &amp;apos;aarch64&amp;apos;, os.version: &amp;apos;14.4&amp;apos;, java.version: &amp;apos;17.0.7&amp;apos;
+Driver info: driver.version: CChromeDriver
+remote stacktrace: 0   chromedriver                        0x0000000100ad83e8 chromedriver + 4326376
+1   chromedriver                        0x0000000100ad08b0 chromedriver + 4294832
+2   chromedriver                        0x00000001006fc088 chromedriver + 278664
+3   chromedriver                        0x000000010073058c chromedriver + 492940
+4   chromedriver                        0x000000010072f858 chromedriver + 489560
+5   chromedriver                        0x000000010072adf0 chromedriver + 470512
+6   chromedriver                        0x0000000100728074 chromedriver + 458868
+7   chromedriver                        0x0000000100767128 chromedriver + 717096
+8   chromedriver                        0x00000001007334e4 chromedriver + 505060
+9   chromedriver                        0x0000000100733f5c chromedriver + 507740
+10  chromedriver                        0x0000000100a9b984 chromedriver + 4077956
+11  chromedriver                        0x0000000100aa073c chromedriver + 4097852
+12  chromedriver                        0x0000000100a82528 chromedriver + 3974440
+13  chromedriver                        0x0000000100aa1054 chromedriver + 4100180
+14  chromedriver                        0x0000000100a73b18 chromedriver + 3914520
+15  chromedriver                        0x0000000100ac165c chromedriver + 4232796
+16  chromedriver                        0x0000000100ac17d8 chromedriver + 4233176
+17  chromedriver                        0x0000000100ad0524 chromedriver + 4293924
+18  libsystem_pthread.dylib             0x000000018a0b6f94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x000000018a0b1d34 thread_start + 8
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&amp;lt;init&amp;gt;(RemoteWebDriver.java:131)
+	at org.openqa.selenium.chrome.ChromeDriver.&amp;lt;init&amp;gt;(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.&amp;lt;init&amp;gt;(ChromeDriver.java:147)
+	at com.kms.katalon.selenium.driver.CChromeDriver.&amp;lt;init&amp;gt;(CChromeDriver.java:13)
+	at com.kms.katalon.core.webui.driver.DriverFactory.createNewChromeDriver(DriverFactory.java:449)
+	at com.kms.katalon.core.webui.driver.DriverFactory.startNewBrowser(DriverFactory.java:382)
+	at com.kms.katalon.core.webui.driver.DriverFactory.openWebDriver(DriverFactory.java:271)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.doCall(OpenBrowserKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.call(OpenBrowserKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser(OpenBrowserKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.execute(OpenBrowserKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.openBrowser(WebUiBuiltInKeywords.groovy:64)
+	at Script1710071683668.run(Script1710071683668.groovy:20)
+	... 15 more
+)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.class">org.openqa.selenium.SessionNotCreatedException</property>
+  <property name="failed.exception.stacktrace">org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 119.0.6045.159 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;
+System info: host: &apos;Geetanjalis-MacBook-Air.local&apos;, ip: &apos;2401:4900:1cbc:5cfb:293f:71d2:8979:43a1%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;aarch64&apos;, os.version: &apos;14.4&apos;, java.version: &apos;17.0.7&apos;
+Driver info: driver.version: CChromeDriver
+remote stacktrace: 0   chromedriver                        0x0000000100ad83e8 chromedriver + 4326376
+1   chromedriver                        0x0000000100ad08b0 chromedriver + 4294832
+2   chromedriver                        0x00000001006fc088 chromedriver + 278664
+3   chromedriver                        0x000000010073058c chromedriver + 492940
+4   chromedriver                        0x000000010072f858 chromedriver + 489560
+5   chromedriver                        0x000000010072adf0 chromedriver + 470512
+6   chromedriver                        0x0000000100728074 chromedriver + 458868
+7   chromedriver                        0x0000000100767128 chromedriver + 717096
+8   chromedriver                        0x00000001007334e4 chromedriver + 505060
+9   chromedriver                        0x0000000100733f5c chromedriver + 507740
+10  chromedriver                        0x0000000100a9b984 chromedriver + 4077956
+11  chromedriver                        0x0000000100aa073c chromedriver + 4097852
+12  chromedriver                        0x0000000100a82528 chromedriver + 3974440
+13  chromedriver                        0x0000000100aa1054 chromedriver + 4100180
+14  chromedriver                        0x0000000100a73b18 chromedriver + 3914520
+15  chromedriver                        0x0000000100ac165c chromedriver + 4232796
+16  chromedriver                        0x0000000100ac17d8 chromedriver + 4233176
+17  chromedriver                        0x0000000100ad0524 chromedriver + 4293924
+18  libsystem_pthread.dylib             0x000000018a0b6f94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x000000018a0b1d34 thread_start + 8
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:147)
+	at com.kms.katalon.selenium.driver.CChromeDriver.&lt;init&gt;(CChromeDriver.java:13)
+	at com.kms.katalon.core.webui.driver.DriverFactory.createNewChromeDriver(DriverFactory.java:449)
+	at com.kms.katalon.core.webui.driver.DriverFactory.startNewBrowser(DriverFactory.java:382)
+	at com.kms.katalon.core.webui.driver.DriverFactory.openWebDriver(DriverFactory.java:271)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.doCall(OpenBrowserKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.call(OpenBrowserKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser(OpenBrowserKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.execute(OpenBrowserKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.openBrowser(WebUiBuiltInKeywords.groovy:64)
+	at Sample.run(Sample:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1712975504916.run(TempTestSuite1712975504916.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.message">session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 119.0.6045.159 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;
+System info: host: &apos;Geetanjalis-MacBook-Air.local&apos;, ip: &apos;2401:4900:1cbc:5cfb:293f:71d2:8979:43a1%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;aarch64&apos;, os.version: &apos;14.4&apos;, java.version: &apos;17.0.7&apos;
+Driver info: driver.version: CChromeDriver
+remote stacktrace: 0   chromedriver                        0x0000000100ad83e8 chromedriver + 4326376
+1   chromedriver                        0x0000000100ad08b0 chromedriver + 4294832
+2   chromedriver                        0x00000001006fc088 chromedriver + 278664
+3   chromedriver                        0x000000010073058c chromedriver + 492940
+4   chromedriver                        0x000000010072f858 chromedriver + 489560
+5   chromedriver                        0x000000010072adf0 chromedriver + 470512
+6   chromedriver                        0x0000000100728074 chromedriver + 458868
+7   chromedriver                        0x0000000100767128 chromedriver + 717096
+8   chromedriver                        0x00000001007334e4 chromedriver + 505060
+9   chromedriver                        0x0000000100733f5c chromedriver + 507740
+10  chromedriver                        0x0000000100a9b984 chromedriver + 4077956
+11  chromedriver                        0x0000000100aa073c chromedriver + 4097852
+12  chromedriver                        0x0000000100a82528 chromedriver + 3974440
+13  chromedriver                        0x0000000100aa1054 chromedriver + 4100180
+14  chromedriver                        0x0000000100a73b18 chromedriver + 3914520
+15  chromedriver                        0x0000000100ac165c chromedriver + 4232796
+16  chromedriver                        0x0000000100ac17d8 chromedriver + 4233176
+17  chromedriver                        0x0000000100ad0524 chromedriver + 4293924
+18  libsystem_pthread.dylib             0x000000018a0b6f94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x000000018a0b1d34 thread_start + 8
+</property>
+</record>
+<record>
+  <date>2024-04-13T02:31:51.978706Z</date>
+  <millis>1712975511978</millis>
+  <nanos>706000</nanos>
+  <sequence>18</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : openBrowser(&amp;quot;&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-04-13T02:31:51.980040Z</date>
+  <millis>1712975511980</millis>
+  <nanos>40000</nanos>
+  <sequence>21</sequence>
+  <level>FAILED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Sample FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to open browser with url: &amp;apos;&amp;apos;
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser(OpenBrowserKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.execute(OpenBrowserKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.openBrowser(WebUiBuiltInKeywords.groovy:64)
+	at Sample.run(Sample:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1712975504916.run(TempTestSuite1712975504916.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 119.0.6045.159 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+Build info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;
+System info: host: &amp;apos;Geetanjalis-MacBook-Air.local&amp;apos;, ip: &amp;apos;2401:4900:1cbc:5cfb:293f:71d2:8979:43a1%en0&amp;apos;, os.name: &amp;apos;Mac OS X&amp;apos;, os.arch: &amp;apos;aarch64&amp;apos;, os.version: &amp;apos;14.4&amp;apos;, java.version: &amp;apos;17.0.7&amp;apos;
+Driver info: driver.version: CChromeDriver
+remote stacktrace: 0   chromedriver                        0x0000000100ad83e8 chromedriver + 4326376
+1   chromedriver                        0x0000000100ad08b0 chromedriver + 4294832
+2   chromedriver                        0x00000001006fc088 chromedriver + 278664
+3   chromedriver                        0x000000010073058c chromedriver + 492940
+4   chromedriver                        0x000000010072f858 chromedriver + 489560
+5   chromedriver                        0x000000010072adf0 chromedriver + 470512
+6   chromedriver                        0x0000000100728074 chromedriver + 458868
+7   chromedriver                        0x0000000100767128 chromedriver + 717096
+8   chromedriver                        0x00000001007334e4 chromedriver + 505060
+9   chromedriver                        0x0000000100733f5c chromedriver + 507740
+10  chromedriver                        0x0000000100a9b984 chromedriver + 4077956
+11  chromedriver                        0x0000000100aa073c chromedriver + 4097852
+12  chromedriver                        0x0000000100a82528 chromedriver + 3974440
+13  chromedriver                        0x0000000100aa1054 chromedriver + 4100180
+14  chromedriver                        0x0000000100a73b18 chromedriver + 3914520
+15  chromedriver                        0x0000000100ac165c chromedriver + 4232796
+16  chromedriver                        0x0000000100ac17d8 chromedriver + 4233176
+17  chromedriver                        0x0000000100ad0524 chromedriver + 4293924
+18  libsystem_pthread.dylib             0x000000018a0b6f94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x000000018a0b1d34 thread_start + 8
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&amp;lt;init&amp;gt;(RemoteWebDriver.java:131)
+	at org.openqa.selenium.chrome.ChromeDriver.&amp;lt;init&amp;gt;(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.&amp;lt;init&amp;gt;(ChromeDriver.java:147)
+	at com.kms.katalon.selenium.driver.CChromeDriver.&amp;lt;init&amp;gt;(CChromeDriver.java:13)
+	at com.kms.katalon.core.webui.driver.DriverFactory.createNewChromeDriver(DriverFactory.java:449)
+	at com.kms.katalon.core.webui.driver.DriverFactory.startNewBrowser(DriverFactory.java:382)
+	at com.kms.katalon.core.webui.driver.DriverFactory.openWebDriver(DriverFactory.java:271)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.doCall(OpenBrowserKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.call(OpenBrowserKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+</message>
+  <exception>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to open browser with url: ''</message>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>stepFailed</method>
+      <line>64</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
+      <method>runKeyword</method>
+      <line>26</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword</class>
+      <method>openBrowser</method>
+      <line>81</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword</class>
+      <method>execute</method>
+      <line>67</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.keyword.internal.KeywordExecutor</class>
+      <method>executeKeywordForPlatform</method>
+      <line>74</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords</class>
+      <method>openBrowser</method>
+      <line>64</line>
+    </frame>
+    <frame>
+      <class>Sample</class>
+      <method>run</method>
+      <line>20</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>run</method>
+      <line>194</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.ScriptEngine</class>
+      <method>runScriptAsRawText</method>
+      <line>119</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>runScript</method>
+      <line>448</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>doExecute</method>
+      <line>439</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>processExecutionPhase</method>
+      <line>418</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>accessMainPhase</method>
+      <line>410</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseExecutor</class>
+      <method>execute</method>
+      <line>285</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.common.CommonExecutor</class>
+      <method>accessTestCaseMainPhase</method>
+      <line>65</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>accessTestSuiteMainPhase</method>
+      <line>150</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestSuiteExecutor</class>
+      <method>execute</method>
+      <line>106</line>
+    </frame>
+    <frame>
+      <class>com.kms.katalon.core.main.TestCaseMain</class>
+      <method>startTestSuite</method>
+      <line>180</line>
+    </frame>
+    <frame>
+      <class>TempTestSuite1712975504916</class>
+      <method>run</method>
+      <line>35</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke0</method>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.NativeMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>77</line>
+    </frame>
+    <frame>
+      <class>jdk.internal.reflect.DelegatingMethodAccessorImpl</class>
+      <method>invoke</method>
+      <line>43</line>
+    </frame>
+  </exception>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="failed.exception.stacktrace">org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 119.0.6045.159 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;
+System info: host: &apos;Geetanjalis-MacBook-Air.local&apos;, ip: &apos;2401:4900:1cbc:5cfb:293f:71d2:8979:43a1%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;aarch64&apos;, os.version: &apos;14.4&apos;, java.version: &apos;17.0.7&apos;
+Driver info: driver.version: CChromeDriver
+remote stacktrace: 0   chromedriver                        0x0000000100ad83e8 chromedriver + 4326376
+1   chromedriver                        0x0000000100ad08b0 chromedriver + 4294832
+2   chromedriver                        0x00000001006fc088 chromedriver + 278664
+3   chromedriver                        0x000000010073058c chromedriver + 492940
+4   chromedriver                        0x000000010072f858 chromedriver + 489560
+5   chromedriver                        0x000000010072adf0 chromedriver + 470512
+6   chromedriver                        0x0000000100728074 chromedriver + 458868
+7   chromedriver                        0x0000000100767128 chromedriver + 717096
+8   chromedriver                        0x00000001007334e4 chromedriver + 505060
+9   chromedriver                        0x0000000100733f5c chromedriver + 507740
+10  chromedriver                        0x0000000100a9b984 chromedriver + 4077956
+11  chromedriver                        0x0000000100aa073c chromedriver + 4097852
+12  chromedriver                        0x0000000100a82528 chromedriver + 3974440
+13  chromedriver                        0x0000000100aa1054 chromedriver + 4100180
+14  chromedriver                        0x0000000100a73b18 chromedriver + 3914520
+15  chromedriver                        0x0000000100ac165c chromedriver + 4232796
+16  chromedriver                        0x0000000100ac17d8 chromedriver + 4233176
+17  chromedriver                        0x0000000100ad0524 chromedriver + 4293924
+18  libsystem_pthread.dylib             0x000000018a0b6f94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x000000018a0b1d34 thread_start + 8
+
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:181)
+	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:147)
+	at com.kms.katalon.selenium.driver.CChromeDriver.&lt;init&gt;(CChromeDriver.java:13)
+	at com.kms.katalon.core.webui.driver.DriverFactory.createNewChromeDriver(DriverFactory.java:449)
+	at com.kms.katalon.core.webui.driver.DriverFactory.startNewBrowser(DriverFactory.java:382)
+	at com.kms.katalon.core.webui.driver.DriverFactory.openWebDriver(DriverFactory.java:271)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.doCall(OpenBrowserKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword$_openBrowser_closure1.call(OpenBrowserKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.openBrowser(OpenBrowserKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.OpenBrowserKeyword.execute(OpenBrowserKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.openBrowser(WebUiBuiltInKeywords.groovy:64)
+	at Sample.run(Sample:20)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1712975504916.run(TempTestSuite1712975504916.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</property>
+  <property name="failed.exception.class">org.openqa.selenium.SessionNotCreatedException</property>
+  <property name="failed.exception.message">session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 119.0.6045.159 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;
+System info: host: &apos;Geetanjalis-MacBook-Air.local&apos;, ip: &apos;2401:4900:1cbc:5cfb:293f:71d2:8979:43a1%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;aarch64&apos;, os.version: &apos;14.4&apos;, java.version: &apos;17.0.7&apos;
+Driver info: driver.version: CChromeDriver
+remote stacktrace: 0   chromedriver                        0x0000000100ad83e8 chromedriver + 4326376
+1   chromedriver                        0x0000000100ad08b0 chromedriver + 4294832
+2   chromedriver                        0x00000001006fc088 chromedriver + 278664
+3   chromedriver                        0x000000010073058c chromedriver + 492940
+4   chromedriver                        0x000000010072f858 chromedriver + 489560
+5   chromedriver                        0x000000010072adf0 chromedriver + 470512
+6   chromedriver                        0x0000000100728074 chromedriver + 458868
+7   chromedriver                        0x0000000100767128 chromedriver + 717096
+8   chromedriver                        0x00000001007334e4 chromedriver + 505060
+9   chromedriver                        0x0000000100733f5c chromedriver + 507740
+10  chromedriver                        0x0000000100a9b984 chromedriver + 4077956
+11  chromedriver                        0x0000000100aa073c chromedriver + 4097852
+12  chromedriver                        0x0000000100a82528 chromedriver + 3974440
+13  chromedriver                        0x0000000100aa1054 chromedriver + 4100180
+14  chromedriver                        0x0000000100a73b18 chromedriver + 3914520
+15  chromedriver                        0x0000000100ac165c chromedriver + 4232796
+16  chromedriver                        0x0000000100ac17d8 chromedriver + 4233176
+17  chromedriver                        0x0000000100ad0524 chromedriver + 4293924
+18  libsystem_pthread.dylib             0x000000018a0b6f94 _pthread_start + 136
+19  libsystem_pthread.dylib             0x000000018a0b1d34 thread_start + 8
+</property>
+</record>
+<record>
+  <date>2024-04-13T02:31:51.986573Z</date>
+  <millis>1712975511986</millis>
+  <nanos>573000</nanos>
+  <sequence>23</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Sample</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[]</property>
+  <property name="applitools">false</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: true,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2024-04-13T02:31:51.988649Z</date>
+  <millis>1712975511988</millis>
+  <nanos>649000</nanos>
+  <sequence>24</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-04-13T02:31:52.094561Z</date>
+  <millis>1712975512094</millis>
+  <nanos>561000</nanos>
+  <sequence>54</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating HTML report folder at: /Users/geetanjali/BDD-Rough/Reports/20240413_080143/SampleSuite/20240413_080144...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-04-13T02:31:52.126161Z</date>
+  <millis>1712975512126</millis>
+  <nanos>161000</nanos>
+  <sequence>55</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HTML report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-04-13T02:31:52.126451Z</date>
+  <millis>1712975512126</millis>
+  <nanos>451000</nanos>
+  <sequence>56</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating CSV report folder at: /Users/geetanjali/BDD-Rough/Reports/20240413_080143/SampleSuite/20240413_080144...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-04-13T02:31:52.132920Z</date>
+  <millis>1712975512132</millis>
+  <nanos>920000</nanos>
+  <sequence>57</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>CSV report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-04-13T02:31:52.134261Z</date>
+  <millis>1712975512134</millis>
+  <nanos>261000</nanos>
+  <sequence>59</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-04-13T02:31:52.145177Z</date>
+  <millis>1712975512145</millis>
+  <nanos>177000</nanos>
+  <sequence>60</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/SampleSuite</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+</log>
