@@ -1,2 +1,2 @@
 # BDD-Rough
-Sample Katalon
+Sample Katalon test
