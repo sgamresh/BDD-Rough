@@ -17,7 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://www.google.com/')
+WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.facebook.com/')
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.bangalorejobseekers.com/')
+
+WebUI.click(findTestObject('Object Repository/Page_BJS - Bangalore Job Seekers/a_Create Listing'))
+
+WebUI.click(findTestObject('Object Repository/Page_Create Listing - Bangalore Job Seekers/a_register'))
+
+WebUI.click(findTestObject('Object Repository/Page_Register - Bangalore Job Seekers Regis_226f9f/a_Submit Resume'))
+
+WebUI.closeBrowser()
 

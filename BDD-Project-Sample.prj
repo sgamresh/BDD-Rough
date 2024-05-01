@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-   <description></description>
+   <description>SAMPLE</description>
    <name>BDD-Project-Sample</name>
    <tag></tag>
    <UUID>a851ac03-1e6d-46b8-bcdb-5144a12e6350</UUID>
    <createdVersion>9.3.1</createdVersion>
    <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>FREE</modifiedEdition>
-   <modifiedVersion>9.4.0</modifiedVersion>
+   <modifiedVersion>9.3.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/geetanjali/BDD-Rough/BDD-Project-Sample.prj</projectFileLocation>
+   <projectFileLocation>/Users/geetanjali/Katalon Studio/BDD-Project-Sample/BDD-Project-Sample.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
