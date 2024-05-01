@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SampleSuite,Chrome 119.0.0.0,,,01-05-2024 11:32:42,01-05-2024 11:32:47,5.754s,PASSED
+,,,,,,,
+Test Cases/Sample,Chrome 119.0.0.0,,,01-05-2024 11:32:42,01-05-2024 11:32:47,5.671s,PASSED
+"openBrowser(""https://www.google.com/"")",Chrome 119.0.0.0,,,01-05-2024 11:32:42,01-05-2024 11:32:46,4.463s,PASSED
+"navigateToUrl(""https://www.facebook.com/"")",Chrome 119.0.0.0,,,01-05-2024 11:32:46,01-05-2024 11:32:47,1.124s,PASSED
